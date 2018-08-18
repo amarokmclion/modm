@@ -31,3 +31,4 @@ examples/**/modm
 examples/**/SConstruct
 examples/**/Makefile
 examples/**/generated
+/.vs
